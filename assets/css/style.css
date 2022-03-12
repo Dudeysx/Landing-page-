@@ -1,0 +1,214 @@
+body {
+	background: url(/assets/images/intro.jpg) center no-repeat;
+	background-size: cover;
+	max-width: 100%;
+	font-family: 'Raleway', sans-serif;
+	font-size: 600;
+	color: #575757;
+	line-height: 28,18px;
+}
+.wrapper {
+	max-width: 908px;
+	justify-content: center;
+	margin: 0 auto;
+}
+.nav {
+	display: flex;
+	list-style-type: none;
+	justify-content: center;
+	padding-left: 0;
+}
+.nav>li {
+	margin-left: 25px;
+	margin-right: 25px;
+	
+}
+.nav>li>a {
+
+	text-decoration: none;
+	color: #DB779C;
+	font-size: 24px;
+}
+
+/* Блок обо мне */
+
+.aboutmebox{
+	margin-top: 216px;
+	padding-left: 15px;
+	padding-right: 15px;
+	display: flex;
+}
+.retangle1 {
+width: 401px;
+height: 585px;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+backdrop-filter: blur(45px);
+border-radius: 59px;
+}
+.myphoto{
+	margin-left: 87px;
+	margin-right: 86px;
+	margin-top: 51px;
+}
+.title1{
+	margin-left: 49px;
+	margin-top: 37px;
+	color: #DB779C;
+}
+.text1 {
+	width: 321px;
+height: 187px;
+	margin-left: 49px;
+	margin-top: 7px;
+	font-size: 24px;
+}
+.retangle2 {
+	position: absolute;
+	margin-left: 503px;
+	width: 401px;
+	height: 585px;
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+	box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+	backdrop-filter: blur(45px);
+	border-radius: 59px;
+}
+.ball {
+margin-left: 219px;
+margin-top: 26px;
+}
+.text2 {
+	font-size: 24px;
+	margin-left: 49px;
+	margin-top: 24
+	width: 319px;
+margin-bottom: 0;
+}
+.voleyboll {
+position: absolute;
+width: 325px;
+height: 252.46px;
+margin-top: 9px;
+}
+
+/*Мои достижения*/
+.wpapper2{
+	max-width: 908px;
+	margin:0 auto;
+	justify-content: center;
+}
+.myachievements {
+	margin-top: 210px;
+
+}
+.retangle3 {
+width: 903px;
+height: 585px;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+backdrop-filter: blur(45px);
+border-radius: 59px;
+}
+.title2 {
+	position: absolute;
+	color: #DB779C;
+	margin-top: 165px;
+	margin-left: 89px;
+}
+.text3 {
+	position: absolute;
+	margin-top:243px;
+	margin-left: 89px;
+	width: 570px;
+height: 332px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+}
+.medal {
+	margin-top: 70px;
+	margin-left: 605px;
+}
+/*Социальные сети*/
+.title3 {
+	margin: 0 auto;
+	width: 392px;
+	height: 39px;
+	font-size: 24px;
+	color: #575757;
+	margin-top: 193px;
+}
+
+.socialnetwork {
+	margin-top: 166px;
+}
+
+.retenglevk {
+	position: absolute;
+width: 213px;
+height: 213px;background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+backdrop-filter: blur(45px);
+border-radius: 59px;
+}
+
+.retengleinst {
+	margin-left:343px;
+	position: absolute;
+width: 213px;
+height: 213px;background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+backdrop-filter: blur(45px);
+border-radius: 59px;
+}
+.retengtwitter{
+	margin-left: 687px;
+	position: absolute;
+width: 213px;
+height: 213px;background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%);
+box-shadow: 0px 4px 24px 1px rgba(212, 175, 156, 0.25);
+backdrop-filter: blur(45px);
+border-radius: 59px;
+}
+
+.vk {
+	margin-top: 48px;
+	margin-left: 47px;
+}
+.inst {
+	margin-top: 48px;
+	margin-left: 47px;
+}
+.twitter {
+	margin-top: 48px;
+	margin-left: 47px;
+}
+.vkimg {
+	margin-top: 48px;
+
+}
+.instimg {
+	margin-top: 48px;
+
+}
+.twiimg {
+	margin-top: 48px;
+	
+}
+
+.copyright {
+	margin-top: 635px;
+	justify-content: center;
+	margin-left: 264px;
+	padding-bottom: 63px;
+}
+
+p{
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+	}
